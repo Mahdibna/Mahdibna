@@ -49,9 +49,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mahdi ben ahmed&style=flat-square&color=blue" alt="Profile views" />
-</p>
