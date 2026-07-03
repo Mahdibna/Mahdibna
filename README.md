@@ -51,43 +51,6 @@
 
 ---
 
-### 📊 Statistiques GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahdi ben ahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi ben ahmed&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahdi ben ahmed&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahdi ben ahmed&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### 🏆 Trophées
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahdi ben ahmed&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-### 📌 Projets phares
-
-<p align="center">
-  <a href="https://github.com/Mahdi ben ahmed/nom-du-projet-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahdi ben ahmed&repo=nom-du-projet-1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Mahdi ben ahmed/nom-du-projet-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahdi ben ahmed&repo=nom-du-projet-2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mahdi ben ahmed&style=flat-square&color=blue" alt="Profile views" />
